@@ -1,1 +1,5 @@
-
+title: Cristiano Perrone
+# logo: /path/to/photo
+# description:
+show downloads: true
+theme: jekyll-theme-minimal
