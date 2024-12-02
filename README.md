@@ -6,5 +6,5 @@
 
 ### Projects
 
-# Customer Sentiment Analysis for a Brand
-# WSDM Cup - Multilingual Chatbot Arena
+Customer Sentiment Analysis for a Brand
+WSDM Cup - Multilingual Chatbot Arena
